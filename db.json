@@ -2,17 +2,17 @@
   "usuarios": [
     {
       "nombre": "Apriendiendo react",
-      "precio": "5000",
+      "apellido": "5000",
       "id": 1
     },
     {
       "nombre": "fer",
-      "precio": "12345",
+      "apelllido": "12345",
       "id": 2
     },
     {
       "nombre": "fernando2323",
-      "precio": "1000",
+      "apellido": "1000",
       "id": 3
     }
   ]
