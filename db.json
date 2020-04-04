@@ -1,0 +1,17 @@
+[
+{
+nombre: "Apriendiendo react",
+precio: "5000",
+id: 1
+},
+{
+nombre: "fer",
+precio: "12345",
+id: 2
+},
+{
+nombre: "1",
+precio: "1",
+id: 3
+}
+]
